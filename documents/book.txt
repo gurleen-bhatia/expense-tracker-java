@@ -1,0 +1,21 @@
+Username: gurleen
+Transaction Dates: 
+12/15/2025—12/15/2025
+Report Generated on:
+12/15/2025 11:43:49
+
+Balance:
+-200.00
+Total Expenses:
+200.00
+Total Income:
+0.00
+Transaction History
+--------------------
+Transaction #1
+ - Amount: 200.00
+ - Date: 2025-12-15
+ - Type: EXPENSE
+ - Category: Education
+ - Description: book
+
